@@ -18,22 +18,12 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+Light mode
+![1](https://github.com/azim-abdulhanov/vue-weather/assets/133730471/23f09c3a-b629-438a-a966-a28fa06e5cff)
 
-<!--
-	<img :src="`http://openweathermap.org/img/wn/${day.weather[0].icon}@2x.png`" v-if="descr == 'ясно'">
-	<img :src="`http://openweathermap.org/img/wn/${day.weather[0].icon}@2x.png`" v-else-if="descr == 'небольшой дождь'">
-	<img :src="`http://openweathermap.org/img/wn/${day.weather[0].icon}@2x.png`" v-else-if="descr == 'легкий дождь'">
-	<img :src="`http://openweathermap.org/img/wn/${day.weather[0].icon}@2x.png`" v-else-if="descr == 'небольшая облачность'">
-	<img :src="`http://openweathermap.org/img/wn/${day.weather[0].icon}@2x.png`" v-else-if="descr == 'облачно с прояснениями'">
-	<img :src="`http://openweathermap.org/img/wn/${day.weather[0].icon}@2x.png`" v-else-if="descr == 'переменная облачность'">
-	<img :src="`http://openweathermap.org/img/wn/${day.weather[0].icon}@2x.png`" v-else-if="descr == 'дождь'">
-	<img :src="`http://openweathermap.org/img/wn/${day.weather[0].icon}@2x.png`" v-else-if="descr == 'пасмурно'">
-	<img :src="`http://openweathermap.org/img/wn/${day.weather[0].icon}@2x.png`" v-else-if="descr == 'туман'">
-	<img :src="`http://openweathermap.org/img/wn/${day.weather[0].icon}@2x.png`" v-else-if="descr == 'небольшой снегопад'">
-	<img :src="`http://openweathermap.org/img/wn/${day.weather[0].icon}@2x.png`" v-else-if="descr == 'небольшой снег'">
-	<img :src="`http://openweathermap.org/img/wn/${day.weather[0].icon}@2x.png`" v-else-if="descr == 'снег'">
-	<img :src="`http://openweathermap.org/img/wn/${day.weather[0].icon}@2x.png`" v-else-if="descr == 'дымка'">
-	<img :src="`http://openweathermap.org/img/wn/${day.weather[0].icon}@2x.png`" v-else-if="descr == 'снег с дождём'">
-	<img :src="`http://openweathermap.org/img/wn/${day.weather[0].icon}@2x.png`" v-else-if="descr == 'дождь с снегом'">
-	<img :src="`http://openweathermap.org/img/wn/${day.weather[0].icon}@2x.png`" v-else>
--->
+Dark mode
+![3](https://github.com/azim-abdulhanov/vue-weather/assets/133730471/f97553c5-06cd-4545-a926-3867e0beefc4)
+
+Modal window
+![2](https://github.com/azim-abdulhanov/vue-weather/assets/133730471/7a627c9d-4c96-4ad4-a306-0989d6c67341)
+
